@@ -1,6 +1,3 @@
-This is my README file
-======================
-
 Technologies Used:
 ------------------
 - PHP
