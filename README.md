@@ -1,14 +1,18 @@
 * My resume can be viewed in PDF, DOCX, MD and HTML formats.
-* If you wish to visit my website to see examples/portfolio pieces, visit <a href="http://www.adamjolicoeur.com">adamjolicoeur.com</a> or my GitHub Repository at https://github.com/mindreeper2420/adamjolicoeur.com
+* If you wish to visit my website to see examples/portfolio pieces, visit <a href="http://www.adamjolicoeur.com">adamjolicoeur.com</a> or my GitHub Repository at https://github.com/mindreeper2420/portfolio
+* You can also find me on Coroflot by visiting http://www.coroflot.com/ajolicoeur/profile
 
 The following is a shorthand version, without contact information.
 ------------------------------------------------------------------
 PROFESSIONAL EXPERIENCE
 -----------------------
 <b>Software Engineer | Black Duck Software, Inc.</b>
-February 2013 - Present | Burlington, MA
-* Developed and implemented a software inventory and licensing system using HTML, CSS3, LESS, Bootstrap2.3.2, Font Awesome, Javascript, Backbone.js and Node.js
-* Created and developed templates using Balsamiq Mockups for development in conjunction with the UX Designer and Lead Developer
+February 2013 - October 2014 | Burlington, MA
+* Developed and implemented a software inventory and management system using HTML5, CSS3, LESS, Bootstrap 3.1 and Font Awesome 4
+* Created and developed wireframes, templates and live mockups for development in conjunction with the UX Designer and Architect
+* Developed continuity and usability structure for high interaction areas
+* Assisted design and development with a fluid and responsive navigation structure
+* Developed and tested initial phases of a mobile, tablet based, design framework
 * Utilized GIT for managing development code and versioning
 * Worked within a daily SCRUM and Agile Development process
 
@@ -36,10 +40,13 @@ June 2008 – November 2010  |  Westborough, MA
 SOFTWARE
 --------
 * Sublime Text 2
+* Atom
 * Balsamiq Mockups
 * MAMP
 * SourceTree
 * GitHub
+* Git Tower
+* CodeKit
 * Camtasia2
 * Nodejs
 * JIRA
